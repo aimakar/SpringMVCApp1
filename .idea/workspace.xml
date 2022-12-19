@@ -9,7 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c97228d-425a-44db-bffa-1fca0ca2b33a" name="Changes" comment="Lesson 16" />
+    <list default="true" id="0c97228d-425a-44db-bffa-1fca0ca2b33a" name="Changes" comment="Lesson 16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/makarov/springcourse/controllers/FirstController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/makarov/springcourse/controllers/SecondController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/makarov/springcourse/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_world.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -46,18 +55,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;52232cf60588c7be094e0e7ae9bc9aea&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "spring.configuration.checksum": "52232cf60588c7be094e0e7ae9bc9aea"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.70" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.70" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/hello-world" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="SpringMVCApp1:war exploded">
           <settings>
@@ -67,6 +78,7 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="4e87f96c-d32a-466c-a1d8-c5dda65e7f70" />
+        <option name="JNDI_PORT" value="1098" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -156,6 +168,7 @@
       <workItem from="1671311968050" duration="1516000" />
       <workItem from="1671313511968" duration="1565000" />
       <workItem from="1671393531248" duration="2851000" />
+      <workItem from="1671451276475" duration="2024000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 16">
       <created>1671400931358</created>
@@ -164,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671400931358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson 16">
+      <created>1671451310971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671451310971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
