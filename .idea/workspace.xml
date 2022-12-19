@@ -9,17 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c97228d-425a-44db-bffa-1fca0ca2b33a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/makarov/springcourse/config/MySpringDispatcherServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/makarov/springcourse/config/SpringConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/makarov/springcourse/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/makarov/springcourse/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContextMVC.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_world.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_world.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="0c97228d-425a-44db-bffa-1fca0ca2b33a" name="Changes" comment="Lesson 16" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,8 +155,16 @@
       <workItem from="1671311660607" duration="290000" />
       <workItem from="1671311968050" duration="1516000" />
       <workItem from="1671313511968" duration="1565000" />
-      <workItem from="1671393531248" duration="2791000" />
+      <workItem from="1671393531248" duration="2851000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson 16">
+      <created>1671400931358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671400931358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,5 +180,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 16" />
   </component>
 </project>
